@@ -6,7 +6,6 @@ systemweakness.com##a:has-text(Privacy Policy):nth-ancestor(4)
 ! 2023-09-15 https://omni.se
 omni.se##.pre-banner-left:has-text(Annons):nth-ancestor(1)
 omni.se##span:has-text(NNONS):nth-ancestor(3)
-omni.se##.resource:has-text(Omni Mer):nth-ancestor(3)
 omni.se##.hidden-sm.hidden-xs.banner--toppanorama.banner
 omni.se##img[title=""]:nth-ancestor(3)
 omni.se##button:has-text(Logga in):nth-ancestor(2)
