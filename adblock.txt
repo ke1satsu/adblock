@@ -23,3 +23,13 @@ www.twitch.tv###twilight-sticky-footer-root
 
 ! 2023-09-17 https://omni.se
 ||ad-blocket.omni.se$subdocument
+
+! 2023-09-18 https://omni.se
+omni.se##.resource--evergreen_article_link-premiumbadge:nth-ancestor(2)
+omni.se##.premium-badge.resource--article-badge.resource:nth-ancestor(1)
+omni.se##h3:has-text(Hösterbjudande):nth-ancestor(2)
+omni.se##.starbox
+omni.se##.icon--star.icon.article-topics-topic-star
+omni.se##.clearfix.sharebox
+omni.se##.hidden-sm.hidden-xs.box-heading
+omni.se##.topic-star--withimage.icon--star.icon
