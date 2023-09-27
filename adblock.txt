@@ -33,3 +33,7 @@ omni.se##.icon--star.icon.article-topics-topic-star
 omni.se##.clearfix.sharebox
 omni.se##.hidden-sm.hidden-xs.box-heading
 omni.se##.topic-star--withimage.icon--star.icon
+
+! 2023-09-27 https://omni.se
+omni.se##.omnikey-informationbox
+omni.se##div.group--dynamicbox
